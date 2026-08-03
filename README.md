@@ -66,6 +66,8 @@ The archive uses a data-driven structure, with game and character information st
 
 This is an unofficial, fan-made archive. Purple Moon, its games, characters, names, logos, artwork, screenshots, and other related materials belong to their respective rights holders. This project is not affiliated with or endorsed by the original company.
 
+The [MIT License](LICENSE.txt) applies only to the original source code created for this website and does not apply to any third-party Purple Moon materials.
+
 ---
 
 ## ⭐ Support the Project
