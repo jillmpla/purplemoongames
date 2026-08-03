@@ -38,7 +38,7 @@ export default function Footer() {
         </div>
 
         <p className="copyright">
-          © {new Date().getFullYear()} purplemoongames.xyz. Fan-made and not affiliated with Purple Moon.
+          © {new Date().getFullYear()} purplemoongames.xyz. Fan-made, not affiliated with Purple Moon.
         </p>
       </footer>
 
@@ -132,7 +132,7 @@ export default function Footer() {
         </div>
 
         <div className="privacy-external-note">
-          <span aria-hidden="true">↗</span>
+          <span aria-hidden="true">›</span>
           <p>
             External links, including Internet Archive links, are governed by the privacy policies of those websites.
           </p>

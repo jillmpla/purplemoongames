@@ -137,7 +137,7 @@ export const characters = [
   {
     name: "Nakili Abuto",
     image: "/Character_Images/Nakili.png",
-    description: "Nakili is a lively, fun-loving member of the Cool Sagittarius Girls and often serves as the group’s peacemaker. She is usually the first person to step in when Dana and Rockett start arguing. Friendly, expressive, and loyal, Nakili brings plenty of warmth and energy to her friendships.",
+    description: "Nakili is a lively, fun-loving member of the Sagittarius Girls and often serves as the group’s peacemaker. She is usually the first person to step in when Dana and Rockett start arguing. Friendly, expressive, and loyal, Nakili brings plenty of warmth and energy to her friendships.",
     birthday: "December 15th",
     zodiac: "Sagittarius"
   },

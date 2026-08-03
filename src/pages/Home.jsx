@@ -51,7 +51,7 @@ export default function Home() {
         <div className="container home-hero-grid">
           <div className="home-hero-copy">
             <p className="eyebrow">Welcome back to Whistling Pines</p>
-            <h1>Choices, friendships, and one unforgettable middle school.</h1>
+            <h1>Choices, friendships, and one unforgettable school.</h1>
             <p className="hero-lede">
               Revisit the imaginative Purple Moon CD-ROM games that made everyday middle-school moments
               feel like an adventure. Explore the stories, meet the students of Whistling Pines, and find
