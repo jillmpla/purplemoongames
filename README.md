@@ -54,8 +54,6 @@ The collection includes game descriptions, release information, artwork, charact
 - **React Router** - client-side routing for the archive’s pages
 - **JavaScript** - real-time search, filtering, image previews, and interactive dialogs
 - **CSS** - custom responsive layouts, animations, and accessible interface states
-- **Vite** - development tooling and optimized production builds
-- **Vercel** - deployment and single-page application routing
 
 The archive uses a data-driven structure, with game and character information stored in reusable JavaScript data objects and rendered dynamically throughout the application.
 
