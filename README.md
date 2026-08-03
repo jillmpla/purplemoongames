@@ -1,6 +1,14 @@
 # Purple Moon Games
 
-[Purple Moon Games](https://purplemoongames.xyz/) is a fan-made web archive created ahead of the upcoming 30th anniversary of **Rockett’s New School**, originally released in 1997.
+<p align="center">
+  <img
+    src="public/Other_Images/PurpleMoonLogo.png"
+    alt="Purple Moon logo"
+    width="320"
+  />
+</p>
+
+[Purple Moon Games](https://purplemoongames.xyz/) — **purplemoongames.xyz** — is a fan-made web archive created in honor of the 30th anniversary of **Rockett’s New School**, originally released in 1997.
 
 Purple Moon’s CD-ROM games combined interactive storytelling with friendship, school life, creativity, puzzles, sports, and player-driven choices. This project brings the games, characters, artwork, release information, and modern play resources together in one responsive web application.
 
