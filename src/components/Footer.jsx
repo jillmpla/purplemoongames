@@ -27,7 +27,7 @@ export default function Footer() {
 
             <div className="footer-brand-copy">
               <strong>www.purplemoongames.xyz</strong>
-              <span>A fan-made celebration of the CD-ROM classics.</span>
+              <span>A celebration of the CD-ROM classics.</span>
             </div>
           </div>
 
