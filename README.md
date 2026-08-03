@@ -18,9 +18,9 @@ Purple Moon’s CD-ROM games combined interactive storytelling with friendship, 
 
 The archive covers the complete group of nine Purple Moon games:
 
-- **Rockett series** — six titles following Rockett Movado through school, friendships, difficult choices, creative storytelling, and summer camp
-- **Secret Paths** — two puzzle-based adventures centered on exploration, reflection, friendship, and personal challenges
-- **The Starfire Soccer Challenge** — a story-driven sports game focused on practice, teamwork, and confidence
+- **Rockett series** - six titles following Rockett Movado through school, friendships, difficult choices, creative storytelling, and summer camp
+- **Secret Paths** - two puzzle-based adventures centered on exploration, reflection, friendship, and personal challenges
+- **The Starfire Soccer Challenge** - a story-driven sports game focused on practice, teamwork, and confidence
 
 The collection includes game descriptions, release information, artwork, character profiles, and links to preserved ISOs on the Internet Archive.
 
@@ -50,12 +50,12 @@ The collection includes game descriptions, release information, artwork, charact
 
 ## 🛠️ Technologies
 
-- **React** — reusable, component-based interface
-- **React Router** — client-side routing for the archive’s pages
-- **JavaScript** — real-time search, filtering, image previews, and interactive dialogs
-- **CSS** — custom responsive layouts, animations, and accessible interface states
-- **Vite** — development tooling and optimized production builds
-- **Vercel** — deployment and single-page application routing
+- **React** - reusable, component-based interface
+- **React Router** - client-side routing for the archive’s pages
+- **JavaScript** - real-time search, filtering, image previews, and interactive dialogs
+- **CSS** - custom responsive layouts, animations, and accessible interface states
+- **Vite** - development tooling and optimized production builds
+- **Vercel** - deployment and single-page application routing
 
 The archive uses a data-driven structure, with game and character information stored in reusable JavaScript data objects and rendered dynamically throughout the application.
 
