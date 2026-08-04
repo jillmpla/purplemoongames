@@ -179,7 +179,7 @@ export const characters = [
   {
     name: "Bo Pezanski",
     image: "/Character_Images/Bo.png",
-    description: "Bo is a sarcastic, rebellious hall monitor with a cool attitude and a surprising talent for computers. Although he isn’t known for following rules, he is smart enough to create sophisticated programs and even cause a little digital chaos at school. Bo usually keeps people at a distance, but his friendship with Sharla and soft spot for Jessie show that he is not quite as detached as he pretends.",
+    description: "Bo is a sarcastic, rebellious hall monitor with a slight attitude problem and a surprising talent for computers. Although he isn’t known for following rules, he is smart enough to create sophisticated programs and even cause a little digital chaos at school. Bo usually keeps people at a distance, but his friendship with Sharla and soft spot for Jessie show that he is not quite as detached as he pretends.",
     birthday: "Unknown",
     zodiac: "Gemini"
   },
