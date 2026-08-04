@@ -259,7 +259,7 @@ export default function Games() {
 
               <div>
                 <Icon name="download" />
-                <span>Includes a Windows 95 installation CD image and Windows 98 boot floppy.</span>
+                <span>Includes a Windows 95 installation CD image and Windows 98 boot.</span>
               </div>
             </div>
 
